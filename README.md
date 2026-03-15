@@ -4,7 +4,7 @@ A real-time vehicle telemetry data pipeline built using **Databricks Structured 
 
 ## Architecture
 
-![Architecture](architecture/architecture_diagram.png)
+![Architecture](architecture/block-diagram.png)
 
 ## Pipeline Overview
 
